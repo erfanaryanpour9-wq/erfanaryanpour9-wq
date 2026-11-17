@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erfanaryanpour9-wq/erfanaryanpour9-wq/main/banner.png" alt="Erfan Arianpour - Aspiring Network Engineer" width="100%" />
+</p>
+
 Hi, I'm Erfan Arianpour 👋
 
 Aspiring Network Engineer | IT Infrastructure | Cybersecurity Enthusiast
