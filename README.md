@@ -10,14 +10,21 @@ I enjoy building practical network labs, learning networking technologies, and i
 
 🛠️ Technologies & Tools
 
-- Cisco Networking
-- Routing & Switching
-- VLAN & Trunking
-- Spanning Tree Protocol (STP)
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PNETLab-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>🌐 Networking Knowledge
+
 - TCP/IP & OSI Model
-- Cisco Packet Tracer
-- PNETLab
-- VMware
+- VLAN & Trunking
+- Routing & Switching
+- Spanning Tree Protocol (STP)
+- ARP & ICMP
+- Network Troubleshooting
 
 📚 Currently Learning
 
