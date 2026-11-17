@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./banner.png" alt="Erfan Arianpour" width="100%">
-</p>Hi, I'm Erfan Arianpour 👋
+
+Hi, I'm Erfan Arianpour 👋
 
 Aspiring Network Engineer | IT Infrastructure | Cybersecurity Enthusiast
 
